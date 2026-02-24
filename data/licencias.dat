@@ -1,0 +1,10 @@
+# Esto es un ejemplo de lo que CONTENDRÁ
+{
+  "version": "1.0.0",
+  "ultima_actualizacion": "2026-02-23",
+  "dispositivos": [
+    {"id": "", "codigo": "4256", "activo": false},
+    {"id": "", "codigo": "1458", "activo": false},
+    {"id": "", "codigo": "9561", "activo": false}
+  ]
+}
