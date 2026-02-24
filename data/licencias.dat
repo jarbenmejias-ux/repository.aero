@@ -1,10 +1,1 @@
-# Esto es un ejemplo de lo que CONTENDRÁ
-{
-  "version": "1.0.0",
-  "ultima_actualizacion": "2026-02-23",
-  "dispositivos": [
-    {"id": "", "codigo": "4256", "activo": false},
-    {"id": "", "codigo": "1458", "activo": false},
-    {"id": "", "codigo": "9561", "activo": false}
-  ]
-}
+4oQbn4yCX+agb3oME7pdljdYmIyT7yYj04rMDQEO0TDg2vv+g0s7zVJRHxLt5JepLQ3Zz8XsIj3JmcIASlufMOvU6eKDWyHqQkMQVbWy0s5scprI2OozPtOK1wpVW4Iw69SQ2pNJN+cJex1HobDe5G473I6LuWFzjOmDQwMU0TLzl6S02g545UhRH1OzpcjmYFiYjJG5Y3GCgsAXSkKeMOvUrbHfGnLNUlEdR/y89ORscpjXu7ljcYDDg0FKUNMo8dbp/LlJN+dSUR1F4v+arSs9mpaRu3JllduBTykU0TLx1Ovy0gpjrgQeH12h9p+oPzeyjJG5YyyM6YNDAxSKGPHU6/CTSTWuFlMHR6Oy0s5scpiMkblhMs+HygRMFssy883+5oJLO81SUR1HobDcpS8m0dreu3lxxoLPEEY+0TLx1Lb8uUk351IKN0ehsN7kbHDRyJOjY3OCz6lDAxTRMvHWqL/XAHCoUEsdRbKnzPBufrKMkbljcYDBwgBXXYd9887rttIFZKJ4UR1Hoe3SzmxymIzKk2NxgMODQwFdlTDr1Onyn2M351JRHUej85GgJTXXjou5YWSY0JFBDz7RMvHU6/CRCHSzGwdSRbuwmKUgId2mkbljcd3PqUMDFNFp29Tr8JNJN+UbFR9dobLc6EZymIyRuWNzw4zHCkRb0yjx1vzph1g163hRHUehsN7mLTHMxcf2YWuAhcIPUFH7MvHU6625STeaeAw=
